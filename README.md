@@ -33,6 +33,9 @@ Sou formada em Matemática, com sólida base em **análise de dados com Python**
 1. Faça o upload do arquivo `site_gilvanete.html` para o repositório
 2. Acesse **Settings > Pages**
 3. Em **Source**, selecione a branch `main` e `/root` como pasta
-4. Clique em salvar — o site será publicado em:
+4. Clique em salvar — o site será publicado.
+
+<img width="1920" height="911" alt="img2" src="https://github.com/user-attachments/assets/a00eb035-55d0-4635-bdc4-ca7b91ea1bdb" />
+
 
 
