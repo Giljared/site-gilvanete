@@ -1,5 +1,7 @@
 # site-gilvanete
-currículo + carta
+currículo + carta Link On-line: https://site-curriculo-carta-gil.netlify.app/
+<img width="1920" height="1242" alt="imagem" src="https://github.com/user-attachments/assets/c0fc1a96-1150-458a-a385-47b842780bd8" />
+
 
 # 🌐 Portfólio – Gilvanete Simplicio da Silva
 
